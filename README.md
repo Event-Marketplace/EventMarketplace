@@ -21,7 +21,7 @@ Projekt w aktywnym rozwoju. Podstawowe funkcjonalności (Panel organizatora) są
 - Backend (.NET Web API)
 - PostgreSQL
 - Autoryzacja JWT + Refresh Token
-- Docker + CI/CD
+- Docker + CI/CD (Github Actions + GHCR)
 
 ---
 
