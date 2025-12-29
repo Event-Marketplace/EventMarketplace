@@ -7,6 +7,8 @@ System składa się z backendu opartego o `.NET Web API` oraz frontendu zbudowan
 - Projekt w aktywnym rozwoju.
 Podstawowe funkcjonalności (Panel organizatora) są zaimplementowane, kolejne moduły są dodawane iteracyjnie. Trwają prace nad panelem administratora.
 
+Planowane jest wdrożenie aplikacji na Azure po zakończeniu prac nad podstawową funkcjonalnością.
+
 ---
 
 ## Repositories
