@@ -27,7 +27,14 @@ Projekt w aktywnym rozwoju. Podstawowe funkcjonalności (Panel organizatora) są
 
 ## Features
 
-- Role: Admin / Organizer / Participant
-- Zarządzanie wydarzeniami
-- Bezpieczna autoryzacja
-- Przygotowanie pod real-time i async
+- Rejestracja i logowanie użytkowników
+- Autoryzacja oparta o JWT (Access Token + Refresh Token)
+- Automatyczne odświeżanie access tokena
+- Zarządzanie wydarzeniami po stronie Organizatora (CRUD)
+- Lista wydarzeń Organizatora
+- Publiczna strona główna z listą aktywnych wydarzeń
+- Rozdzielenie aplikacji na panele:
+  - Organizer
+  - Administrator
+  - Participant
+- Obsługa wielu ról – możliwość wyboru kontekstu użytkownika
