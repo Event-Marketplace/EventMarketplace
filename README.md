@@ -8,5 +8,5 @@ Projekt w aktywnym rozwoju. Core funkcjonalności są zaimplementowane, kolejne 
 
 ## Repositories
 
-- 🔧 Backend: https://github.com/username/event-marketplace-be
+- 🔧 Backend: https://github.com/Event-Marketplace/EventMarketplace-BE
 - 🌐 Frontend: https://github.com/Event-Marketplace/EventMarketplace-FE
