@@ -4,7 +4,8 @@ Event Marketplace to platforma umożliwiająca organizację, zarządzanie oraz u
 - `Celem projektu jest zaprezentowanie pełnego procesu projektowania aplikacji fullstackowej - od logiki biznesowej i bezpieczeństwa, po architekturę, CI/CD i integrację frontend-backend`.
 
 System składa się z backendu opartego o `.NET Web API` oraz frontendu zbudowanego w `Next.js`.
-Projekt w aktywnym rozwoju. Podstawowe funkcjonalności (Panel organizatora) są zaimplementowane, kolejne moduły są dodawane iteracyjnie. Trwają prace nad panelem administratora.
+- Projekt w aktywnym rozwoju.
+Podstawowe funkcjonalności (Panel organizatora) są zaimplementowane, kolejne moduły są dodawane iteracyjnie. Trwają prace nad panelem administratora.
 
 ---
 
