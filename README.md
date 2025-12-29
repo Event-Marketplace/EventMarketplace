@@ -10,3 +10,22 @@ Projekt w aktywnym rozwoju. Core funkcjonalności są zaimplementowane, kolejne 
 
 - 🔧 Backend: https://github.com/Event-Marketplace/EventMarketplace-BE
 - 🌐 Frontend: https://github.com/Event-Marketplace/EventMarketplace-FE
+
+---
+
+## Architecture
+
+- Frontend (Next.js)
+- Backend (.NET Web API)
+- PostgreSQL
+- Autoryzacja JWT + Refresh Token
+- Docker + CI/CD
+
+---
+
+## Features
+
+- Role: Admin / Organizer / Participant
+- Zarządzanie wydarzeniami
+- Bezpieczna autoryzacja
+- Przygotowanie pod real-time i async
